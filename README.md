@@ -49,12 +49,11 @@ A self-hosted bot that listens for GitHub PR webhooks, extracts precise code con
 ### 📊 GitHub Analytics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spoorti803&theme=default&hide_border=true)
-
+ 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spoorti803&show_icons=true&theme=default&hide_border=true)
-
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spoorti803&layout=compact&theme=default&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Spoorti803&color=blue&style=flat-square)
+ 
 
 ---
 
