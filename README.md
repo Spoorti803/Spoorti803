@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Spoorti</h1>
-<h3 align="center">Data Science / ML Student | Turning data into decisions</h3>
+<h3 align="center">AIML Student | Building ML-based solutions for real-world problems</h3>
 
 <p align="center">
   <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -9,9 +9,9 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Student, currently exploring **Data Science & Machine Learning**
+- 🎓 AIML student, passionate about applying machine learning to real-world problems
 - 🔭 Currently building **LLM-powered developer tools** (see featured project below)
-- 🌱 Learning to combine ML with real-world software engineering
+- 🌱 Exploring how ML and automation can solve practical, everyday challenges
 - 💬 Ask me about Python, data analysis, or ML basics
 - 📫 Reach me via the links above
 
@@ -44,6 +44,18 @@
 A self-hosted bot that listens for GitHub PR webhooks, extracts precise code context using **Tree-sitter** (function bodies, callers, surrounding lines), and posts LLM-generated inline review comments via **Claude** or **GPT-4o**.
 
 `FastAPI` · `Celery` · `Redis` · `Tree-sitter` · `LLMs`
+
+---
+
+### 📊 GitHub Analytics
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spoorti803&theme=default&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spoorti803&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spoorti803&layout=compact&theme=default&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Spoorti803&color=blue&style=flat-square)
 
 ---
 
