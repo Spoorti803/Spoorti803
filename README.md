@@ -8,16 +8,16 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 AIML student, passionate about applying machine learning to real-world problems
-- 🌱 Exploring new concepts in AI/ML and applying them through hands-on projects
-- 💻 Also building with React and Firebase on the side
-- 💬 Ask me about Python, data analysis, or ML basics
-- 📫 Reach me via the links above
+###  About Me
+-  AIML student, passionate about applying machine learning to real-world problems
+-  Exploring new concepts in AI/ML and applying them through hands-on projects
+-  Also building with React and Firebase on the side
+-  Ask me about Python, data analysis, or ML basics
+-  Reach me via the links above
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages & Data**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -40,7 +40,7 @@
 
 ---
 
-### 📌 Featured Project
+###  Featured Project
 
 #### [Context-Aware Code Review Assistant for GitHub Pull Requests](https://github.com/Spoorti803/Context-Aware-Code-Review-Assistant-for-GitHub-Pull-requests)
 A self-hosted bot that listens for GitHub PR webhooks, extracts precise code context using **Tree-sitter** (function bodies, callers, surrounding lines), and posts LLM-generated inline review comments via **Claude** or **GPT-4o**.
@@ -49,7 +49,7 @@ A self-hosted bot that listens for GitHub PR webhooks, extracts precise code con
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spoorti803&theme=default&hide_border=true)
 
