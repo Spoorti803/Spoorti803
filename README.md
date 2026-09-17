@@ -2,16 +2,16 @@
 <h3 align="center">AIML Student | Building ML-based solutions for real-world problems</h3>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:spoortibadiger7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/spoorti-badiger-824568370/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🎓 AIML student, passionate about applying machine learning to real-world problems
-- 🔭 Currently building **LLM-powered developer tools** (see featured project below)
-- 🌱 Exploring how ML and automation can solve practical, everyday challenges
+- 🌱 Exploring new concepts in AI/ML and applying them through hands-on projects
+- 💻 Also building with React and Firebase on the side
 - 💬 Ask me about Python, data analysis, or ML basics
 - 📫 Reach me via the links above
 
@@ -31,10 +31,12 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Web Basics**
+**Web & App Dev**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
@@ -51,9 +53,9 @@ A self-hosted bot that listens for GitHub PR webhooks, extracts precise code con
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spoorti803&theme=default&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spoorti803&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Spoorti803&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spoorti803&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Spoorti803&layout=compact&theme=default&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Spoorti803&color=blue&style=flat-square)
 
