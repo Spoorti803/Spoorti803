@@ -1,15 +1,16 @@
-<h1 align="center">Hi , I'm Spoorti</h1>
-<h3 align="center">AI / ML Student | Turning data into decisions</h3>
+<h1 align="center">Hi 👋, I'm Spoorti</h1>
+<h3 align="center">Data Science / ML Student | Turning data into decisions</h3>
 
 <p align="center">
-  <a href="mailto:spoortibadiger7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/spoorti-badiger-824568370/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Student, currently exploring **Artificial intelligence & Machine Learning**
+- 🎓 Student, currently exploring **Data Science & Machine Learning**
+- 🔭 Currently building **LLM-powered developer tools** (see featured project below)
 - 🌱 Learning to combine ML with real-world software engineering
 - 💬 Ask me about Python, data analysis, or ML basics
 - 📫 Reach me via the links above
@@ -28,7 +29,7 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square)
-
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **Web Basics**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -43,17 +44,6 @@
 A self-hosted bot that listens for GitHub PR webhooks, extracts precise code context using **Tree-sitter** (function bodies, callers, surrounding lines), and posts LLM-generated inline review comments via **Claude** or **GPT-4o**.
 
 `FastAPI` · `Celery` · `Redis` · `Tree-sitter` · `LLMs`
-
----
-
-### 📊 GitHub Analytics
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spoorti803&theme=default&hide_border=true)
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spoorti803&show_icons=true&theme=default&hide_border=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spoorti803&layout=compact&theme=default&hide_border=true)
- 
 
 ---
 
