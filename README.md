@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Spoorti</h1>
+<h1 align="center">Hi there, I'm Spoorti</h1>
 <h3 align="center">AIML Student | Building ML-based solutions for real-world problems</h3>
 
 <p align="center">
@@ -53,7 +53,7 @@ A self-hosted bot that listens for GitHub PR webhooks, extracts precise code con
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spoorti803&theme=default&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Spoorti803&show_icons=true&theme=default&hide_border=true)
+
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Spoorti803&layout=compact&theme=default&hide_border=true)
 
