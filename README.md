@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Spoorti</h1>
+<h1 align="center">Hi , I'm Spoorti</h1>
 <h3 align="center">AI / ML Student | Turning data into decisions</h3>
 
 <p align="center">
   <a href="mailto:spoortibadiger7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/spoorti-badiger-824568370/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Student, currently exploring **Artificail intelligence & Machine Learning**
-- 🔭 Currently building **LLM-powered developer tools** (see featured project below)
+- 🎓 Student, currently exploring **Artificial intelligence & Machine Learning**
 - 🌱 Learning to combine ML with real-world software engineering
 - 💬 Ask me about Python, data analysis, or ML basics
 - 📫 Reach me via the links above
