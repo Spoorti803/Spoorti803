@@ -57,7 +57,6 @@ A self-hosted bot that listens for GitHub PR webhooks, extracts precise code con
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Spoorti803&layout=compact&theme=default&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Spoorti803&color=blue&style=flat-square)
 
 ---
 
